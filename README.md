@@ -1,4 +1,4 @@
-[![Header](https://github.com/AlexeyLVB/AlexeyLVB/blob/main/assets/saab_griffin.jpg)]
+![Header](https://github.com/AlexeyLVB/AlexeyLVB/blob/main/assets/saab_griffin.jpg)
 
 About me
 
