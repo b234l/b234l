@@ -13,5 +13,5 @@
 ![CSS](https://img.shields.io/badge/-CSS-informational?style=for-the-badge&logo=CSS)
 
 ## Follow me:
-![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram)(https://t.me/alexey_lvb)
-![VK](https://img.shields.io/badge/-VK-blue?style=for-the-badge&logo=VK)(https://vk.com/rams_lvb)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram)](https://t.me/alexey_lvb)
+[![VK](https://img.shields.io/badge/-VK-blue?style=for-the-badge&logo=VK)](https://vk.com/rams_lvb)
