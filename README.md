@@ -1,7 +1,7 @@
 Hi 👋 My name is Alexey Korolyov
 ================================
 
-I have been studying programming for 4 years at the university. Now I am a novice programmer looking for a job.
+I have been studying programming for 4 years at the university (TSTU). Now I am a novice programmer looking for a job.
 
 ## ✉️  You can contact me at: 
 ### [alexsey6413@gmail.com](mailto:alexsey6413@gmail.com)
