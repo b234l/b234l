@@ -34,13 +34,13 @@ Now I am a novice programmer looking for a job.
 
 ## Socials
 
-<p align="left"> <a href="https://discord.com/users/b234nr#9324" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/AlexeyLVB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/b234nr#9324" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/b234l" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
 ## Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/AlexeyLVB"><img src="https://github-readme-stats.vercel.app/api?username=AlexeyLVB&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AlexeyLVB's GitHub stats" /></a>
+<a href="http://www.github.com/b234l"><img src="https://github-readme-stats.vercel.app/api?username=AlexeyLVB&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AlexeyLVB's GitHub stats" /></a>
 
 <b>Top Repositories</b>
 
