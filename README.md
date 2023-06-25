@@ -40,9 +40,9 @@ Now I am a novice programmer looking for a job.
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/b234l"><img src="https://github-readme-stats.vercel.app/api?username=AlexeyLVB&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AlexeyLVB's GitHub stats" /></a>
+<a href="http://www.github.com/b234l"><img src="https://github-readme-stats.vercel.app/api?username=AlexeyLVB&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="b234l's GitHub stats" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/AlexeyLVB/angular-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexeyLVB&repo=angular-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/b234l/angular-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=b234l&repo=angular-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
