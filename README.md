@@ -1,24 +1,23 @@
-Hi 👋 My name is Alexey Korolyov
+Hi 👋 Меня зовут Алексей Королёв
 ================================
 
-I have been studying programming for 4 years at the university (TSTU). 
+Я выпускник Факультета Информационных Технологий из Тверского Государственного Технического Универститета (ТвГТУ). 
 
-I took the following training courses:
+Окончил такие курсы, как:
 * JavaScript (SoloLearn)
 * HTML (CodeBasics)
 * CSS (CodeBasics)
 * Web Development: HTML & CSS (Stepik)
-* Angular + NestJS (in process) (SoloLearn) 
+* Angular + NestJS (SoloLearn) 
 
-Now I am a novice programmer looking for a job.
+Сейчас я начинающий программист, ищущий работу.
 
-## ✉️  You can contact me at: 
+## ✉️  Способы связи со мной: 
 ### [alexsey6413@gmail.com](mailto:alexsey6413@gmail.com)
 * [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram)](https://t.me/alexey_lvb)
 * [![VK](https://img.shields.io/badge/-VK-blue?style=for-the-badge&logo=VK)](https://vk.com/rams_lvb)
 
-## Skills
-
+## Стек используемых технологий:
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -38,7 +37,7 @@ Now I am a novice programmer looking for a job.
 
 ## Badges
 
-<b>My GitHub Stats</b>
+<b>Моя GitHub статистика</b>
 
 <a href="http://www.github.com/b234l"><img src="https://github-readme-stats.vercel.app/api?username=b234l&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="b234l's GitHub stats" /></a>
 
