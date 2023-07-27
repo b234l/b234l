@@ -15,7 +15,7 @@ Hi 👋 Меня зовут Алексей Королёв
 ## ✉️  Способы связи со мной: 
 ### [alexsey6413@gmail.com](mailto:alexsey6413@gmail.com)
 * [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram)](https://t.me/alexey_lvb)
-* [![VK](https://img.shields.io/badge/-VK-blue?style=for-the-badge&logo=VK)](https://vk.com/rams_lvb)
+* [![VK](https://img.shields.io/badge/-VK-blue?style=for-the-badge&logo=VK)](https://vk.com/b234r)
 
 ## Стек используемых технологий:
 
